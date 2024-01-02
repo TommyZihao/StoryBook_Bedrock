@@ -4,6 +4,8 @@
 
 用户只需输入童话主题，生成式AI即可生成童话剧情文本，并绘制出每个场景的高清插图，形成画册。
 
+在线Demo：https://tonghua.zihaoai.cn
+
 项目Github主页：https://github.com/TommyZihao/StoryBook_Bedrock
 
 大语言模型，使用Amazon Bedrock中的Claude V2.1，支持200k上下文窗口，拥有非常不错的中文能力和超长多轮对话记忆能力。
@@ -11,16 +13,6 @@
 文生图模型，使用Amazon Bedrock中的Stable Diffusion XL 1.0，和Amazon Titan Image Generator G1。
 
 使用Amazon CodeWhisperer智能编程助手辅助开发。
-
-## 特别说明
-
-本项目仅用于非盈利的娱乐、科普、科研、辅助教学。
-
-由生成式AI输出的回答结果，可能有待进一步优化，不代表任何人的观点，任何后果与开发团队无关。
-
-## 在线网页
-
-https://tonghua.zihaoai.cn
 
 ## 生成的样例绘本
 
@@ -46,7 +38,6 @@ https://tonghua.zihaoai.cn
 
 ![月球基地1](https://github.com/TommyZihao/StoryBook_Bedrock/assets/36354458/f9fce170-e181-4ee5-a5f1-d8ab3d8d25e4)
 
-
 ## 作者介绍
 
 - 张子豪（同济子豪兄）
@@ -64,3 +55,9 @@ Github：https://github.com/TommyZihao
 资深软件工程师，擅长大数据、前后端、微信小程序、安卓APP、Web网站开发。
 
 Github：https://github.com/maxoyed
+
+## 特别说明
+
+本项目仅用于非盈利的娱乐、科普、科研、辅助教学。
+
+由生成式AI输出的回答结果，可能有待进一步优化，不代表任何人的观点，任何后果与开发团队无关。
