@@ -1,5 +1,7 @@
 # 石趣绘本园：基于Amazon Bedrock的多模态在线儿童绘本
 
+![背景图3](https://github.com/TommyZihao/StoryBook_Bedrock/assets/36354458/c6db5427-3dfa-4e00-93ea-ecf88ac921ff)
+
 用户只需输入童话主题，生成式AI即可生成童话剧情文本，并绘制出每个场景的高清插图，形成画册。
 
 项目Github主页：https://github.com/TommyZihao/StoryBook_Bedrock
@@ -20,7 +22,17 @@
 
 https://tonghua.zihaoai.cn
 
-## 一些效果
+## 生成的样例绘本
+
+不妨尝试下面的话题：
+
+经典新编：长发公主、旅行青蛙、龙宫历险、小红帽、白蛇传
+
+神奇动物：七彩鹦鹉、浣熊长老、小海龟历险记、土拨鼠一家人
+
+魔法秘境：魔法城堡、会说话的花朵、龙与地下城、点石成金
+
+奇闻轶事：喜马拉雅雪怪、深海迷踪、木星奇遇记、月球基地、火星救援
 
 ![魔法城堡](https://github.com/TommyZihao/StoryBook_Bedrock/assets/36354458/382ad58b-07d5-4235-bbc3-ae3365cb4a78)
 
