@@ -32,6 +32,9 @@ https://tonghua.zihaoai.cn
 
 ![小红帽4](https://github.com/TommyZihao/StoryBook_Bedrock/assets/36354458/64ae5682-a458-4531-afa9-a7f8b03a8257)
 
+![月球基地1](https://github.com/TommyZihao/StoryBook_Bedrock/assets/36354458/f9fce170-e181-4ee5-a5f1-d8ab3d8d25e4)
+
+
 ## 作者介绍
 
 - 张子豪（同济子豪兄）
@@ -45,7 +48,7 @@ B站“同济子豪兄”主页：https://space.bilibili.com/1900783
 Github：https://github.com/TommyZihao
 
 - 杨耀东（东哥）
-- 
+
 资深软件工程师，擅长大数据、前后端、微信小程序、安卓APP、Web网站开发。
 
 Github：https://github.com/maxoyed
