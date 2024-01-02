@@ -1,2 +1,47 @@
-# StoryBook_Bedrock
-基于Amazon Bedrock的多模态AI儿童绘本
+# 石趣绘本园：基于Amazon Bedrock的多模态在线儿童绘本
+
+用户只需输入童话主题，生成式AI即可生成童话剧情文本，并绘制出每个场景的高清插图，形成画册。
+
+项目Github主页：https://github.com/TommyZihao/StoryBook_Bedrock
+
+本项目使用Amazon CodeWhisperer智能编程助手辅助开发。
+
+## 特别说明
+
+本项目仅用于非盈利的娱乐、科普、科研、辅助教学。
+
+由生成式AI输出的回答结果，可能有待进一步优化，不代表任何人的观点，任何后果与开发团队无关。
+
+## 在线网页
+
+https://tonghua.zihaoai.cn
+
+## 一些效果
+
+![魔法城堡](https://github.com/TommyZihao/StoryBook_Bedrock/assets/36354458/382ad58b-07d5-4235-bbc3-ae3365cb4a78)
+
+![龙宫历险2](https://github.com/TommyZihao/StoryBook_Bedrock/assets/36354458/b73bac2c-ef6b-4284-9e7b-805a7619caa8)
+
+![土拨鼠家族2](https://github.com/TommyZihao/StoryBook_Bedrock/assets/36354458/9b5c3721-e74b-401c-b5bb-952dd7fe20ef)
+
+![喜马拉雅雪怪2](https://github.com/TommyZihao/StoryBook_Bedrock/assets/36354458/802d83a4-a78c-4e86-817a-7a619f5238fe)
+
+![小红帽4](https://github.com/TommyZihao/StoryBook_Bedrock/assets/36354458/64ae5682-a458-4531-afa9-a7f8b03a8257)
+
+## 作者介绍
+
+- 张子豪（同济子豪兄）
+
+长期从事人工智能、深度学习、计算机视觉的科普教育工作。微软人工智能最有价值专家（MVP）、华为云人工智能HCDE云享专家、中国图象图形学学会-科普与教育工作委员会委员。
+
+代表作：精读AI论文、斯坦福CS231N计算机视觉中文精讲、CS224W图神经网络中文精讲、“两天搞定图像分类、目标检测、图像分割、关键点检测毕业设计”、可解释机器学习公开课。
+
+B站“同济子豪兄”主页：https://space.bilibili.com/1900783
+
+Github：https://github.com/TommyZihao
+
+- 杨耀东（东哥）
+- 
+资深软件工程师，擅长大数据、前后端、微信小程序、安卓APP、Web网站开发。
+
+Github：https://github.com/maxoyed
