@@ -4,7 +4,11 @@
 
 项目Github主页：https://github.com/TommyZihao/StoryBook_Bedrock
 
-本项目使用Amazon CodeWhisperer智能编程助手辅助开发。
+大语言模型，使用Amazon Bedrock中的Claude V2.1，支持200k上下文窗口，拥有非常不错的中文能力和超长多轮对话记忆能力。
+
+文生图模型，使用Amazon Bedrock中的Stable Diffusion XL 1.0，和Amazon Titan Image Generator G1。
+
+使用Amazon CodeWhisperer智能编程助手辅助开发。
 
 ## 特别说明
 
