@@ -8,9 +8,9 @@
 
 在线Demo-2：rockstory.zihaoai.cn
 
-项目Github主页：https://github.com/TommyZihao/StoryBook_Bedrock
+Github主页：https://github.com/TommyZihao/StoryBook_Bedrock
 
-大语言模型，使用Amazon Bedrock中的Claude V2.1，支持200k上下文窗口，拥有非常不错的中文能力和超长多轮对话记忆能力。
+大语言模型，使用Amazon Bedrock中的Claude V2.1，支持200k上下文窗口，拥有非常不错的中文对话能力、多轮对话上下文记忆能力、安全合规能力。
 
 文生图模型，使用Amazon Bedrock中的Stable Diffusion XL 1.0，和Amazon Titan Image Generator G1。
 
