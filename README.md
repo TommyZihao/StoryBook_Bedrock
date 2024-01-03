@@ -1,8 +1,8 @@
-# 石趣绘本园：基于Amazon Bedrock的多模态在线儿童绘本
+# 石趣绘本园：基于Amazon Bedrock的多模态AI童话绘本
 
 ![背景图3](https://github.com/TommyZihao/StoryBook_Bedrock/assets/36354458/c6db5427-3dfa-4e00-93ea-ecf88ac921ff)
 
-用户只需输入童话主题，生成式AI即可生成童话剧情文本，并绘制出每个场景的高清插图，形成画册。
+用户只需输入童话主题，大模型和生成式AI即可生成完整的童话剧情文本，并单独绘制出每个场景的高清插图。
 
 在线Demo-1：bedstory.zihaoai.cn
 
