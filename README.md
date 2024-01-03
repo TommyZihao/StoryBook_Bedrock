@@ -36,6 +36,8 @@ Github主页：https://github.com/TommyZihao/StoryBook_Bedrock
 
 ![土拨鼠家族2](https://github.com/TommyZihao/StoryBook_Bedrock/assets/36354458/9b5c3721-e74b-401c-b5bb-952dd7fe20ef)
 
+![土拨鼠一家人](https://github.com/TommyZihao/StoryBook_Bedrock/assets/36354458/dedaffc0-999f-4dd1-9561-10de85186a0f)
+
 ![巴黎旅行1](https://github.com/TommyZihao/StoryBook_Bedrock/assets/36354458/8c8898ba-a640-495c-a99c-0a018c19f5e6)
 
 ![巴黎旅行2](https://github.com/TommyZihao/StoryBook_Bedrock/assets/36354458/43405be0-1cf8-4d41-abec-1c9149840e71)
