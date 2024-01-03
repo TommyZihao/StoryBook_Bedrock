@@ -4,7 +4,9 @@
 
 用户只需输入童话主题，生成式AI即可生成童话剧情文本，并绘制出每个场景的高清插图，形成画册。
 
-在线Demo：https://tonghua.zihaoai.cn
+在线Demo-1：bedstory.zihaoai.cn
+
+在线Demo-2：rockstory.zihaoai.cn
 
 项目Github主页：https://github.com/TommyZihao/StoryBook_Bedrock
 
@@ -31,6 +33,8 @@
 ![龙宫历险2](https://github.com/TommyZihao/StoryBook_Bedrock/assets/36354458/b73bac2c-ef6b-4284-9e7b-805a7619caa8)
 
 ![土拨鼠家族2](https://github.com/TommyZihao/StoryBook_Bedrock/assets/36354458/9b5c3721-e74b-401c-b5bb-952dd7fe20ef)
+
+![巴黎旅行1](https://github.com/TommyZihao/StoryBook_Bedrock/assets/36354458/8c8898ba-a640-495c-a99c-0a018c19f5e6)
 
 ![巴黎旅行2](https://github.com/TommyZihao/StoryBook_Bedrock/assets/36354458/43405be0-1cf8-4d41-abec-1c9149840e71)
 
