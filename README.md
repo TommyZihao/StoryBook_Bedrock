@@ -16,6 +16,8 @@ Github主页：https://github.com/TommyZihao/StoryBook_Bedrock
 
 使用Amazon Bedrock调用生成式AI基础模型（FMs），使用Amazon CodeWhisperer智能编程助手辅助代码开发。
 
+![流程图1](https://github.com/TommyZihao/StoryBook_Bedrock/assets/36354458/9fcca386-3fc2-4d13-81b4-7975d5477ca2)
+
 ## 生成的样例绘本
 
 不妨尝试下面的话题：
