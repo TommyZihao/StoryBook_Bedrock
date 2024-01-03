@@ -34,6 +34,10 @@
 
 ![巴黎旅行2](https://github.com/TommyZihao/StoryBook_Bedrock/assets/36354458/43405be0-1cf8-4d41-abec-1c9149840e71)
 
+![罗马假日2](https://github.com/TommyZihao/StoryBook_Bedrock/assets/36354458/068bd224-9d5e-45c2-8417-703409fbf04f)
+
+![喜马拉雅雪怪1](https://github.com/TommyZihao/StoryBook_Bedrock/assets/36354458/f39efa85-1769-474f-b0b2-8c7971b7bc18)
+
 ![喜马拉雅雪怪2](https://github.com/TommyZihao/StoryBook_Bedrock/assets/36354458/802d83a4-a78c-4e86-817a-7a619f5238fe)
 
 ![小红帽4](https://github.com/TommyZihao/StoryBook_Bedrock/assets/36354458/64ae5682-a458-4531-afa9-a7f8b03a8257)
