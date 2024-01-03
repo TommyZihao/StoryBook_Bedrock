@@ -12,7 +12,7 @@
 
 文生图模型，使用Amazon Bedrock中的Stable Diffusion XL 1.0，和Amazon Titan Image Generator G1。
 
-使用Amazon CodeWhisperer智能编程助手辅助开发。
+使用Amazon Bedrock调用生成式AI基础模型（FMs），使用Amazon CodeWhisperer智能编程助手辅助代码开发。
 
 ## 生成的样例绘本
 
@@ -31,6 +31,8 @@
 ![龙宫历险2](https://github.com/TommyZihao/StoryBook_Bedrock/assets/36354458/b73bac2c-ef6b-4284-9e7b-805a7619caa8)
 
 ![土拨鼠家族2](https://github.com/TommyZihao/StoryBook_Bedrock/assets/36354458/9b5c3721-e74b-401c-b5bb-952dd7fe20ef)
+
+![巴黎旅行2](https://github.com/TommyZihao/StoryBook_Bedrock/assets/36354458/43405be0-1cf8-4d41-abec-1c9149840e71)
 
 ![喜马拉雅雪怪2](https://github.com/TommyZihao/StoryBook_Bedrock/assets/36354458/802d83a4-a78c-4e86-817a-7a619f5238fe)
 
