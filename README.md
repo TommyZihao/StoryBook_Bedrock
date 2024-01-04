@@ -1,4 +1,4 @@
-# 石趣绘本园：基于Amazon Bedrock的多模态AIGC童话绘本
+# 石趣绘本园：基于Amazon Bedrock的AIGC童话绘本
 
 ![背景图3](https://github.com/TommyZihao/StoryBook_Bedrock/assets/36354458/c6db5427-3dfa-4e00-93ea-ecf88ac921ff)
 
@@ -48,7 +48,7 @@ Github主页：https://github.com/TommyZihao/StoryBook_Bedrock
 
 ## 项目框架
 
-![流程图2](https://github.com/TommyZihao/StoryBook_Bedrock/assets/36354458/2bcd771b-3555-4547-8552-f3118c059dae)
+![流程图3](https://github.com/TommyZihao/StoryBook_Bedrock/assets/36354458/2605836b-3038-4238-9737-df2013f23f08)
 
 在Amazon Bedrock中，调用生成式AI基础模型（FMs）。
 
