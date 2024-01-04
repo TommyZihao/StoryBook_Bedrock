@@ -10,13 +10,13 @@
 
 Github主页：https://github.com/TommyZihao/StoryBook_Bedrock
 
+![流程图2](https://github.com/TommyZihao/StoryBook_Bedrock/assets/36354458/2bcd771b-3555-4547-8552-f3118c059dae)
+
 大语言模型，使用Amazon Bedrock中的Claude V2.1，支持200k上下文窗口，拥有非常不错的中文对话能力、多轮对话上下文记忆能力、安全合规能力。
 
 文生图模型，使用Amazon Bedrock中的Stable Diffusion XL 1.0，和Amazon Titan Image Generator G1。
 
 使用Amazon Bedrock调用生成式AI基础模型（FMs），使用Amazon CodeWhisperer智能编程助手辅助代码开发。
-
-![流程图1](https://github.com/TommyZihao/StoryBook_Bedrock/assets/36354458/9fcca386-3fc2-4d13-81b4-7975d5477ca2)
 
 ## 生成的样例绘本
 
