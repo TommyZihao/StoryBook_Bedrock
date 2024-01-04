@@ -10,14 +10,6 @@
 
 Github主页：https://github.com/TommyZihao/StoryBook_Bedrock
 
-![流程图2](https://github.com/TommyZihao/StoryBook_Bedrock/assets/36354458/2bcd771b-3555-4547-8552-f3118c059dae)
-
-大语言模型，使用Amazon Bedrock中的Claude V2.1，支持200k上下文窗口，拥有非常不错的中文对话能力、多轮对话上下文记忆能力、安全合规能力。
-
-文生图模型，使用Amazon Bedrock中的Stable Diffusion XL 1.0，和Amazon Titan Image Generator G1。
-
-使用Amazon Bedrock调用生成式AI基础模型（FMs），使用Amazon CodeWhisperer智能编程助手辅助代码开发。
-
 ## 生成的样例绘本
 
 不妨尝试下面的话题：
@@ -54,7 +46,25 @@ Github主页：https://github.com/TommyZihao/StoryBook_Bedrock
 
 ![月球基地1](https://github.com/TommyZihao/StoryBook_Bedrock/assets/36354458/f9fce170-e181-4ee5-a5f1-d8ab3d8d25e4)
 
+## 项目框架
+
+![流程图2](https://github.com/TommyZihao/StoryBook_Bedrock/assets/36354458/2bcd771b-3555-4547-8552-f3118c059dae)
+
+在Amazon Bedrock中，调用生成式AI基础模型（FMs）。
+
+大语言模型，使用Amazon Bedrock中的Claude V2.1，支持200k上下文窗口，拥有非常强大的多轮对话上下文记忆能力、中文对话能力、安全合规能力。
+
+文生图模型，使用Amazon Bedrock中的Stable Diffusion XL 1.0，和Amazon Titan Image Generator G1。
+
+使用Amazon CodeWhisperer智能编程助手辅助代码开发。
+
 ## 作者介绍
+
+- 杨耀东（东哥）
+
+资深软件工程师，擅长大数据、前后端、微信小程序、安卓APP、Web网站开发。
+
+Github：https://github.com/maxoyed
 
 - 张子豪（同济子豪兄）
 
@@ -65,12 +75,6 @@ Github主页：https://github.com/TommyZihao/StoryBook_Bedrock
 B站“同济子豪兄”主页：https://space.bilibili.com/1900783
 
 Github：https://github.com/TommyZihao
-
-- 杨耀东（东哥）
-
-资深软件工程师，擅长大数据、前后端、微信小程序、安卓APP、Web网站开发。
-
-Github：https://github.com/maxoyed
 
 ## 特别说明
 
