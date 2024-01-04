@@ -1,4 +1,4 @@
-# 石趣绘本园：基于Amazon Bedrock的多模态AI童话绘本
+# 石趣绘本园：基于Amazon Bedrock的多模态AIGC童话绘本
 
 ![背景图3](https://github.com/TommyZihao/StoryBook_Bedrock/assets/36354458/c6db5427-3dfa-4e00-93ea-ecf88ac921ff)
 
