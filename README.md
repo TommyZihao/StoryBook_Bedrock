@@ -24,6 +24,8 @@ Github主页：https://github.com/TommyZihao/StoryBook_Bedrock
 
 环游世界：罗马假日、香榭丽舍咖啡馆、伦敦旅行、阿尔卑斯雪山、亚马逊丛林
 
+![七彩鹦鹉1](https://github.com/TommyZihao/StoryBook_Bedrock/assets/36354458/c042a1fc-67c7-4792-ba1e-3b3dfdad3bfd)
+
 ![魔法城堡](https://github.com/TommyZihao/StoryBook_Bedrock/assets/36354458/382ad58b-07d5-4235-bbc3-ae3365cb4a78)
 
 ![龙宫历险2](https://github.com/TommyZihao/StoryBook_Bedrock/assets/36354458/b73bac2c-ef6b-4284-9e7b-805a7619caa8)
